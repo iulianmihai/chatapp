@@ -1,0 +1,17 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "This is a chat application where users can create their own rooms",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iulianmihai/chatapp.git"
+  },
+  "author": "Iulian Mihai",
+  "email": "imihai@salesforce.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iulianmihai/chatapp/issues"
+  },
+  "homepage": "https://github.com/iulianmihai/chatapp#readme"
+}
