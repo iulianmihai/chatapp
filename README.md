@@ -6,7 +6,8 @@ Chat application where users can create their own rooms
 
 ## Dependencies
 
-* SocketIo
+* Socket.io
+* mime
 
 
 ## Code Setup
